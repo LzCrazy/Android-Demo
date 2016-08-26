@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DBDemo</string>
+    <string name="hello">按住Menu可以新增，修改，删除</string>
+
+</resources>

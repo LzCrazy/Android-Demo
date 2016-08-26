@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/ivAlbum"
+        android:layout_width="@dimen/album_width"
+        android:layout_height="@dimen/album_height"
+        android:layout_marginRight="@dimen/marginRight"
+        android:src="@mipmap/ic_launcher" />
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/music_height"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/music_name"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/ivAlbum"
+        android:text="青花瓷" />
+
+    <TextView
+        android:id="@+id/tvSinger"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/singer_height"
+        android:layout_alignLeft="@+id/tvName"
+        android:layout_below="@+id/tvName"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/music_singer"
+        android:text="周杰伦" />
+
+</RelativeLayout>

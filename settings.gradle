@@ -1,0 +1,1 @@
+include ':app', ':renderscript', ':render', ':recycleviewdemo', ':j2eesample', ':form', ':editdemo', ':textdemo', ':musicdemo', ':sqlitdemo', ':dbdemo', ':activitycycle', ':serviceresolve'

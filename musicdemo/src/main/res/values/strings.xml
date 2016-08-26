@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicDemo</string>
+    <!--Main布局-->
+    <string name="MusicTitle">音乐列表</string>
+    <string name="NewMusic">新歌榜</string>
+    <string name="HotMusic">热歌榜</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <TextView
+        android:id = "@+id/TextView_city"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:text = "所在城市："
+        />
+    <!-- 定义一个城市信息下拉菜单-->
+    <Spinner
+        android:id = "@+id/Spinner_city"
+        android:layout_width = "wrap_content"
+        android:layout_height ="wrap_content" >
+    </Spinner >
+
+    <Button
+        android:text="Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Name"
+        android:ems="10"
+        android:id="@+id/editText" />
+
+</LinearLayout>

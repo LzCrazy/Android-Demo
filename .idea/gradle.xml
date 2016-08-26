@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activitycycle" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/dbdemo" />
+            <option value="$PROJECT_DIR$/editdemo" />
+            <option value="$PROJECT_DIR$/form" />
+            <option value="$PROJECT_DIR$/j2eesample" />
+            <option value="$PROJECT_DIR$/musicdemo" />
+            <option value="$PROJECT_DIR$/recycleviewdemo" />
+            <option value="$PROJECT_DIR$/render" />
+            <option value="$PROJECT_DIR$/renderscript" />
+            <option value="$PROJECT_DIR$/serviceresolve" />
+            <option value="$PROJECT_DIR$/sqlitdemo" />
+            <option value="$PROJECT_DIR$/textdemo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

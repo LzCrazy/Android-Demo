@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo.iml" filepath="$PROJECT_DIR$/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activitycycle/activitycycle.iml" filepath="$PROJECT_DIR$/activitycycle/activitycycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbdemo/dbdemo.iml" filepath="$PROJECT_DIR$/dbdemo/dbdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/editdemo/editdemo.iml" filepath="$PROJECT_DIR$/editdemo/editdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/form/form.iml" filepath="$PROJECT_DIR$/form/form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2eesample/j2eesample.iml" filepath="$PROJECT_DIR$/j2eesample/j2eesample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musicdemo/musicdemo.iml" filepath="$PROJECT_DIR$/musicdemo/musicdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycleviewdemo/recycleviewdemo.iml" filepath="$PROJECT_DIR$/recycleviewdemo/recycleviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/render/render.iml" filepath="$PROJECT_DIR$/render/render.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renderscript/renderscript.iml" filepath="$PROJECT_DIR$/renderscript/renderscript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serviceresolve/serviceresolve.iml" filepath="$PROJECT_DIR$/serviceresolve/serviceresolve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlitdemo/sqlitdemo.iml" filepath="$PROJECT_DIR$/sqlitdemo/sqlitdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textdemo/textdemo.iml" filepath="$PROJECT_DIR$/textdemo/textdemo.iml" />
+    </modules>
+  </component>
+</project>
